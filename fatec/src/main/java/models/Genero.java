@@ -5,6 +5,8 @@ import javax.persistence.Id;
 
 @Entity
 @Table(name = "generos")
-public class Genero(
+public class Genero{
+
     
-)
+}
+    
